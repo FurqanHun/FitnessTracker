@@ -31,15 +31,15 @@ Download the latest Android `.apk` directly:
 
 ## 📸 Screenshots
 
-| Home | Details | Add/Edit |
+| Home Screen | Details View | Add/Edit Form |
 |:---:|:---:|:---:|
-| *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
+| <img src="https://github.com/user-attachments/assets/f74183b9-c5e6-44e5-b50c-b4fd1db89828" width="250" /> | <img src="https://github.com/user-attachments/assets/60321b40-db8f-4238-a2cd-6b49815876fe" width="250" /> | <img src="https://github.com/user-attachments/assets/f0294e03-8d13-4927-b654-488ae80713fb" width="250" /> |
 
 ## Get started
 
 1.  Clone the repo:
     ```bash
-    git clone [https://github.com/FurqanHun/FitnessTracker.git](https://github.com/FurqanHun/FitnessTracker.git)
+    git clone https://github.com/FurqanHun/FitnessTracker.git
     cd FitnessTracker
     ```
 
